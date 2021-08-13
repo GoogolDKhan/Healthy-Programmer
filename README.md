@@ -19,3 +19,5 @@ Install Pygame module
 ## Author
 
 - [@Sarfaraz](https://www.github.com/GoogolDKhan)
+
+- Dated : 07-05-2021
