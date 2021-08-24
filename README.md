@@ -18,6 +18,6 @@ Install Pygame module
     
 ## Author
 
-- This project is inspired by [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- This exercise is inspired by [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 
 - Dated : 07-05-2021
