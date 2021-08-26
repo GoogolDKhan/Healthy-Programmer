@@ -1,12 +1,12 @@
 # Healthy Programmer
 
-* We programmers works so hard all day and most of us sit on their chair and do programming more than 8 hours a day.
+* We programmers work so hard all day and most of us sit on their chair for more than 8 hours a day.
 
-* Which causes eyes weakness and we don't drink water or we don't leave the chair which causes back pain which causes us health issues.
+* This causes eyes weakness and we don't drink much water as we don't leave the chair often which causes back pain that leads to health issues.
 
-* To solve this problem, Here is a program wich alerts us to drink water , do eyes exercise and do physical exericse by playing music at intervals.
+* To solve this problem, Here is a program that alerts us to drink water, do eye exercise, and do physical exercise by playing music at intervals.
 
-* This program also save your logs in a txt file.
+* This program also saves your logs in a text file.
 
 ## Requirement
 
