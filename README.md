@@ -1,4 +1,4 @@
-# Healthy Programmer
+# Healthy Programmer [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/healthy-programmer/badge)](https://www.codefactor.io/repository/github/googoldkhan/healthy-programmer)
 
 * Programmers works while sitting on their chair for more than 8 hours a day.
 
